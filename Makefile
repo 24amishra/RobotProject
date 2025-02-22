@@ -52,6 +52,8 @@ else
 
 endif
 
+
+
 ifeq ($(OS),Windows_NT)	
 	@cd $(FIRMWAREREPO) && mingw32-make all TARGET=$(TARGET)
 	@cd $(FIRMWAREREPO) && mingw32-make deploy TARGET=$(TARGET)
