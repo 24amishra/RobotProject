@@ -2,6 +2,12 @@
 	"folders": [
 		{
 			"path": "../../HackAI"
+		},
+		{
+			"path": "../../../hackathon"
+		},
+		{
+			"path": "../../nimai sped hackai"
 		}
 	],
 	"settings": {}
